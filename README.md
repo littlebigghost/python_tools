@@ -17,7 +17,7 @@ python url2word.py
 
 ### Use exe
 
-download exe
+download [v1.0 exe](https://github.com/littlebigghost/python_tools/releases/tag/v1.0)
 
 ## package exe
 
