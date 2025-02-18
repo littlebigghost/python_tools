@@ -1,0 +1,2 @@
+newspaper3k==0.2.8
+python_docx==1.1.2
